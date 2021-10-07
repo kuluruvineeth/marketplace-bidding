@@ -2,9 +2,27 @@
 
 An online marketplace application with seller accounts, product search and suggestions, shopping cart, order management, payment processing with Stripe, and live auction with Socket.io - developed using React, Node, Express and MongoDB. 
 
-![MERN Marketplace](https://mernbook.s3.amazonaws.com/git+/marketplace-bidding.png "MERN Marketplace")
+## Bidding Page
+![Bidding](https://github.com/kuluruvineeth/mern-marketplace-bidding/blob/master/screenshots/Bidding.png)
 
-### [Live Demo](http://marketplace2.mernbook.com/ "MERN Marketplace")
+## AddAuction Page
+![addAuction](https://github.com/kuluruvineeth/mern-marketplace-bidding/blob/master/screenshots/addAuction.png)
+
+## AuctionLive Page
+![liveAuction](https://github.com/kuluruvineeth/mern-marketplace-bidding/blob/master/screenshots/auctionLive.png)
+
+## Cart Page
+![cart](https://github.com/kuluruvineeth/mern-marketplace-bidding/blob/master/screenshots/cart.png)
+
+## Checkout Page
+![checkout](https://github.com/kuluruvineeth/mern-marketplace-bidding/blob/master/screenshots/checkout.png)
+
+## EditShop Page
+![shop](https://github.com/kuluruvineeth/mern-marketplace-bidding/blob/master/screenshots/editShop.png)
+
+## Products Page
+![products](https://github.com/kuluruvineeth/mern-marketplace-bidding/blob/master/screenshots/products.png)
+
 
 #### What you need to run this code
 1. Node (13.12.0)
